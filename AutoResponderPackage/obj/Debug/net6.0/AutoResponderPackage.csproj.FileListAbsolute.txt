@@ -1,0 +1,12 @@
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\bin\Debug\net6.0\AutoResponderPackage.deps.json
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\bin\Debug\net6.0\AutoResponderPackage.dll
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\bin\Debug\net6.0\AutoResponderPackage.pdb
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.csproj.AssemblyReference.cache
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.AssemblyInfoInputs.cache
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.AssemblyInfo.cs
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.csproj.CoreCompileInputs.cache
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.dll
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\refint\AutoResponderPackage.dll
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\AutoResponderPackage.pdb
+C:\Users\PF5D\Desktop\ConsumingAPI\AutoResponder\AutoResponderPackage\obj\Debug\net6.0\ref\AutoResponderPackage.dll
